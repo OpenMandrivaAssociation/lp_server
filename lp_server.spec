@@ -8,6 +8,7 @@ URL:		http://www.ltsp.org
 Source0:	http://www.ltsp.org/tarballs/%{name}-%{version}.tar.bz2
 BuildRequires:	uClibc-devel
 BuildRequires:	uClibc-static-devel
+BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 %description
 This program allows you to 'export' a printer on your local host to be used by
