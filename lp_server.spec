@@ -4,7 +4,7 @@ Version:	1.1.6
 Release:	%mkrel 4
 License:	GPL
 Group:		System/Servers
-URL:		http://www.ltsp.org
+URL:		https://www.ltsp.org
 Source0:	http://www.ltsp.org/tarballs/%{name}-%{version}.tar.bz2
 BuildRequires:	uClibc-devel
 BuildRequires:	uClibc-static-devel
