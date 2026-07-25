@@ -1,7 +1,7 @@
 Summary:	Daemon for local printers (simulates HP JetDirect)
 Name:		lp_server
 Version:	1.1.6
-Release:	%mkrel 4
+Release:	5
 License:	GPL
 Group:		System/Servers
 URL:		https://www.ltsp.org
